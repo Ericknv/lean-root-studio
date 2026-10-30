@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação revisado do LeanRoot: arquitetura 100% client-side em React/TypeScript sem dependência de backend, com motor de facilitação socrática e heurísticas Lean no frontend, persistência robusta em localStorage, diagrama progressivo de Ishikawa 6M, desdobramento dos 5 Porquês, gestão de planos de ação (contenção e correção) e exportação de ata para impressão A4 e texto estruturado.",
+  "updatedAt":  "2026-10-30T01:11:10.037582246Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

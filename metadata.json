@@ -1,0 +1,6 @@
+{
+  "name": "LeanRoot - Assistente de Resolução de Problemas Lean",
+  "description": "Facilitador socrático virtual para sessões de PDCA e Kaizen em chão de fábrica, com Diagrama de Ishikawa (6M), 5 Porquês e Plano de Ação 5W2H.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
